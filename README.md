@@ -1,6 +1,6 @@
-# mtvs-ac-pre-learning
+# mtvs-learning
 
-## For record keeping
+## 메타버스 공부 내용 정리
 
 ### AI
 
