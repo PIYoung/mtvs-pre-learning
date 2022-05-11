@@ -1,13 +1,15 @@
 # mtvs-ac-pre-learning
 
-## 서비스개발자 AI과정
+## For record keeping
+
+### AI
 
 - ㅇㅇ
 
-## 컨텐츠 창작자 과정
+### CC
 
 - ㅇㅇ
 
-## 서비스개발자 XR과정
+### XR
 
 - ㅇㅇ
