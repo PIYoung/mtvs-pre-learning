@@ -15,10 +15,6 @@
 - 딥러닝
 - Pytorch
 
-### CC
-
-- Autodesk 3Ds Max 활용 3D 컨텐츠 제작
-
 ### XR
 
 - Unity 활용 3D 컨텐츠 제작
