@@ -35,4 +35,12 @@ public class Enemy : MonoBehaviour
     // 살아가면서 그 방향으로 계속 이동하고싶다.
     transform.position += dir * speed * Time.deltaTime;
   }
+
+  private void OnCollisionEnter(Collision other)
+  {
+    // 너죽고
+    Destroy(other.gameObject);
+    // 나죽자
+    Destroy(gameObject);
+  }
 }
