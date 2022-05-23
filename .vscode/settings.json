@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["curr", "jsonify", "lprice", "obsr"]
+  "cSpell.words": ["curr", "jsonify", "lprice", "obsr"],
+  "git.ignoreLimitWarning": true
 }
