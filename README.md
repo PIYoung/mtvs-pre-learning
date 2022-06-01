@@ -20,3 +20,4 @@
 - C#
 - Unity 2D
 - Unity 3D
+- 3D Modeling
